@@ -18,9 +18,9 @@ Built a voting ballot application with 4 NFL Teams such that there is a chairper
 2. Save start time as a state variable
 
 ## Prerequisite
-1. NodeJs
-2. Metamask (3.14.1)
-3. Truffle (v4.0.4)
+1. NodeJs (v10.22.0)
+2. Metamask (8.0.10)
+3. Truffle (v5.1.49)
 
 ## Instruction for truffle testing
 1. Clone the repository to a local folder
