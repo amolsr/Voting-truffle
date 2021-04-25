@@ -2,7 +2,7 @@ App = {
   web3Provider: null,
   contracts: {},
   names: new Array(),
-  url: 'https://sandbox.truffleteams.com/cf3dd2ac-2d98-4379-93b9-f2e1732f9391',
+  url: 'https://sandbox.truffleteams.com/6bf5e017-aa24-4d68-8816-26ebb20ec6c6',
   chairPerson:null,
   currentAccount:null,
   init: function() {
